@@ -3,5 +3,6 @@ dataset is directly upload from keggle website by calling API. It's an amazing m
 <p align="center">
   <img src="https://github.com/AManan651/online-fraud-detector-/blob/main/online%20fraur.jpeg?raw=true" width="400"/>
 </p>
+
 ## Author Name
 # Abdullah Mohammed,CUET'20 EEE. (abdullahanan611@gmail.com)
